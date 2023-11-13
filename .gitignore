@@ -1,0 +1,5 @@
+./entorno
+./entorno-linux
+./vscode
+.vscode
+*/.ipynb_checkpoints
