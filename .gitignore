@@ -3,3 +3,10 @@
 ./vscode
 .vscode
 */.ipynb_checkpoints
+
+# Python venv
+lib
+lib64
+bin
+pyvenv.cfg
+share
